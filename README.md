@@ -2,7 +2,7 @@
 
 This is the **frontend application** for the **Task Manager Project**, built using **React.js (Vite) and Tailwind CSS**.
 It interacts with the backend API to handle user authentication, task management, and admin functionalities.
-
+Live Link : https://task-management-ui-drab.vercel.app
 ---
 
 ## ✨ Features
@@ -100,10 +100,27 @@ npm run dev
 
 ## 🌍 Live Frontend
 
-* [Task Manager Frontend (Vercel)]()
+* [Task Manager Frontend (Vercel)](https://task-management-ui-drab.vercel.app/)
+
+## Screenshots
+
+  <img width="1366" height="768" alt="Screenshot (1858)" src="https://github.com/user-attachments/assets/f2c66b6c-a83a-4855-bee1-2f88da78b8a2" />
+
+
+  <img width="1366" height="768" alt="Screenshot (1851)" src="https://github.com/user-attachments/assets/cc537f5b-f758-460f-8616-387ab50e1821" />
+
+
+  <img width="1366" height="768" alt="Screenshot (1854)" src="https://github.com/user-attachments/assets/a9b99b99-9a02-438b-884f-e460973cb073" />
+
+  <img width="1366" height="768" alt="Screenshot (1855)" src="https://github.com/user-attachments/assets/0f90195a-bd52-468b-b1dc-32f0a7d39564" />
+
+  <img width="1366" height="768" alt="Screenshot (1856)" src="https://github.com/user-attachments/assets/52201727-a35e-4f0e-9fc4-e32fbca88d16" />
+
+  <img width="1366" height="768" alt="Screenshot (1857)" src="https://github.com/user-attachments/assets/142130d0-ee77-4d2b-8ae2-3c8c45edd845" />
+
 
 ---
 
-## 🖼️ Screenshots
+
 
 
