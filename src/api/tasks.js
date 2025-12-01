@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/tasks";
+//const API_URL = "http://localhost:5000/api/tasks";
+ const API_URL ="https://taskmanagementserver-d45z.onrender.com/api/tasks";
 
 // Get tasks created by current user (or all for admin)
 export const getMyTasks = async (token, all = false) => {

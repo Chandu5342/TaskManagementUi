@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/users";
+//const API_URL = "http://localhost:5000/api/users";
+ const API_URL ="https://taskmanagementserver-d45z.onrender.com/api/users";
 
 // Get all users (Admin)
 export const getUsers = async (token) => {
