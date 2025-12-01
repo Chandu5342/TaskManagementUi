@@ -55,15 +55,7 @@ export default function Home() {
             <p className="text-gray-600">Easily create and organize tasks with descriptions, priorities, and due dates</p>
           </div>
 
-          <div className="bg-white rounded-lg shadow-lg p-8">
-            <div className="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
-              <svg className="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
-              </svg>
-            </div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Assign & Track</h3>
-            <p className="text-gray-600">Assign tasks to team members and track progress in real time</p>
-          </div>
+         
 
           <div className="bg-white rounded-lg shadow-lg p-8">
             <div className="w-12 h-12 bg-indigo-100 rounded-lg flex items-center justify-center mb-4">
